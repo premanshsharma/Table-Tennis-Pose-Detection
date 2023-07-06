@@ -1,7 +1,11 @@
 # Table-Tennis-Pose-Detection
 
 ## Dataset Classes:-
-Backhand gameplay, Forehand gameplay, Backhand serve, Forehand serve, None(Not Playing).
+Backhand gameplay:- https://youtu.be/pdeDcxiPDRs
+Forehand gameplay:- https://youtu.be/YW-L9_Vp61g
+Backhand serve:- https://youtu.be/gtQLU25eMNA
+Forehand serve:- https://youtu.be/aLM8KSESBfQ
+None(Not Playing):- https://youtu.be/DT6Ft-8DkI0
 
 ## Outputs:- 
 The final output is not shown as I am going for a research paper so I can't disclose them.
