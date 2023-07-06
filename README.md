@@ -13,7 +13,7 @@ None(Not Playing):- https://youtu.be/DT6Ft-8DkI0
 
 ## Outputs:- 
 The final output is not shown as I am going for a research paper so I can't disclose them.
-
+Output Video:- https://youtu.be/7i0l-n59QbM
 ### Confusion matrix of LSTM
 Accuracy:- 0.8485856652259827
 ![download](https://github.com/premanshsharma/Table-Tennis-Pose-Detection/assets/71265310/9b2fb340-ce40-4b21-ae07-1495e98ad898)
